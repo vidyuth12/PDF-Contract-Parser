@@ -15,6 +15,6 @@ It automatically parses metadata, effective dates, sections, clauses, and tables
 Clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/pdf-contract-parser.git
+git clone https://github.com/vidyuth12/pdf-contract-parser.git
 cd pdf-contract-parser
 pip install -r requirements.txt
